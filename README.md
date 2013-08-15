@@ -65,6 +65,8 @@ vi $ZABBIX_PATH/include/classes/api/API.php
 技术支持
 ==================================
 http://weibo.com/spider4k
+http://weibo.com/chinahanna
+http://weibo.com/678236656
 
 祝玩的愉快
 
