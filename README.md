@@ -63,12 +63,14 @@ vi $ZABBIX_PATH/include/menu.inc.php
 vi $ZABBIX_PATH/js/main.js
 
 替换106行
+
 menus:                  {'empty': 0, 'view': 0, 'cm': 0, 'reports': 0, 'config': 0, 'admin': 0, 'zatree':0},
 
 6：增加封装的api类
 
 
 vi $ZABBIX_PATH/include/classes/api/API.php
+
 在74行下添加75行'itemvalue'=>'CItemValue',
 
      74                 'usermedia' => 'CUserMedia',
